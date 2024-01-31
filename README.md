@@ -40,7 +40,10 @@ The platform will be used to get information of potential participants which new
 
 # 1.5 EXPECTATIONS
 InclusiveTech initiative aims to foster a more inclusive and digitally literate society, where individuals from all walks of life have the skills and confidence to engage with emerging technologies.
+
 By breaking down barriers and providing accessible opportunities, this project envisions a future where everyone can contribute to and benefit from the ongoing digital revolution.
+
 Through empowerment and education, InclusiveTech strives to create a more equitable and resilient global community in the face of rapid technological advancements.
+
 Our mission is to create opportunities that transform possibilities into tangible success stories. Through a dynamic working environment and a collaborative community, we strive to make technology a driving force for improved livelihoods.
 
